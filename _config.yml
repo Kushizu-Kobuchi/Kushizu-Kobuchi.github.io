@@ -38,8 +38,8 @@ social:
   email: Team_XYZ@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/KushizuKobuchi # change to your twitter homepage
     - https://github.com/kushizu-kobuchi # change to your github homepage
+    - https://twitter.com/KushizuKobuchi # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
