@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 主标题 # the main title
+title: 槐安城连锁包子铺 # the main title
 
-tagline: 副标题 # it will display as the sub-title
+tagline: 包子已售罄 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   简介
@@ -29,16 +29,16 @@ github:
   username: kushizu-kobuchi # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: KushizuKobuchi # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Kushizu Kobuchi
-  email: example@domain.com # change to your email address
+  email: Team_XYZ@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/KushizuKobuchi # change to your twitter homepage
     - https://github.com/kushizu-kobuchi # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
