@@ -155,7 +155,7 @@ baseurl: ""
 kramdown:
   input: GFM
   footnote_backlink: "&#8617;&#xfe0e;"
-  syntax_highlighter: rouge
+  syntax_highlighter: pygments
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
     # default_lang: console
